@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Neringa Pannem 👋
+# Hello, I'm Ner Pa 👋
 
 ### Data Enthusiast | Aspiring Data Scientist | Tech Explorer
 
